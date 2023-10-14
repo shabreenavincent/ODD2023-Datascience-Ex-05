@@ -10,7 +10,7 @@ Feature Generation (also known as feature construction, feature extraction or fe
 - Step4: Save the data to the file.
 ### Program:
 ```
-Developed By: shabreena vincent
+Developed By: Shabreena Vincent
 Register No: 212222230141
 ```
 - Encoding.csv:
